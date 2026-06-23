@@ -73,5 +73,9 @@
 ### ✨ Quote
 
 "Learning never stops. Every day is a new opportunity to improve."
+<h2>GitHub Contributions</h2>
+<p align="center">
+  <img src="after.png" width="900">
+</p>
 
 ---
